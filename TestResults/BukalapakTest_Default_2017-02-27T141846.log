@@ -1,0 +1,85 @@
+﻿VS filter: testpath:TestAssembly:BukalapakTest/Feature:Transaction/Scenario:check+data+on+successful+transaction+in+bukalapak
+Discovering target: Default
+Discovering tests from assembly: C:\Users\Voxteneo\Documents\Visual Studio 2015\Projects\BukalapakTest\BukalapakTest\bin\Debug\BukalapakTest.dll
+Appdomain Disposed
+Test Suite Dump
+#0: BukalapakTest/Default - 
+#1: Default - 
+#2: BukalapakTest - 
+#3: Transaction - 
+#4: check data on successful transaction in bukalapak - TestAssembly:BukalapakTest/Feature:Transaction/Scenario:check+data+on+successful+transaction+in+bukalapak
+End: Test Suite Dump
+Thread#0:Scheduler: get next test for thread
+Thread#:Scheduler: testitem #4 from normal test queue 
+Thread#0:Scheduler: considering testitem #4 for thread
+Thread#0:Scheduler: using testitem #4 for thread
+Thread#0:Scheduler: Test #4 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread #0: creating new test thread executor for BukalapakTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+Loading SpecRun type 'TechTalk.SpecRun.Framework.TestAssemblyExecutor' from: C:\Users\Voxteneo\AppData\Local\Temp\VisualStudioTestExplorerExtensions\SpecRun.Runner.1.5.2\tools\TechTalk.SpecRun.Framework.Executor.dll
+Thread#0: Test #4/0 is started on thread #0
+Thread#0:B:Given I success do order transaction
+Thread#0:T:error: Unsupported Marionette protocol version 2, required 3
+Thread#0:B:When I arrive to successful trasaction page
+Thread#0:T:skipped because of previous errors
+Thread#0:B:Then I should see correct data for transaction
+Thread#0:B:  --- table step argument ---
+Thread#0:B:  | TRX_ID    | ADDRESS_SHIP          | DATE_ORDER | SELLER_NAME | DELIVERY_SERVICE |
+Thread#0:B:  | 01023A9AA | KAMPUNG DATOK KERAMAT | 21/08/2016 | FURHAN      | JNE              |
+Thread#0:B:  | 01023A9AC | JALAN GURNEY          | 21/08/2016 | FURHAN      | REX              |
+Thread#0:B:  | 01023A9AD | UTM KUALA LUMPUR      | 21/08/2016 | FURHAN      | POS              |
+Thread#0:T:skipped because of previous errors
+Thread#0:Scheduler: reschedule tests for testitem #0
+Thread#0:Scheduler: get next test for thread
+Thread#:Scheduler: dequeuing a rescheduled testitem: #4
+Thread#0:Scheduler: considering testitem #4 for thread
+Thread#0:Scheduler: using testitem #4 for thread
+Thread#0:Scheduler: Test #4 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread#0: Test #4/0 is finished on thread #0 as Failed within 7,4967196 seconds
+Thread#0: Test #4/1 is started on thread #0
+Thread#0:B:Given I success do order transaction
+Thread#0:T:error: Unsupported Marionette protocol version 2, required 3
+Thread#0:B:When I arrive to successful trasaction page
+Thread#0:T:skipped because of previous errors
+Thread#0:B:Then I should see correct data for transaction
+Thread#0:B:  --- table step argument ---
+Thread#0:B:  | TRX_ID    | ADDRESS_SHIP          | DATE_ORDER | SELLER_NAME | DELIVERY_SERVICE |
+Thread#0:B:  | 01023A9AA | KAMPUNG DATOK KERAMAT | 21/08/2016 | FURHAN      | JNE              |
+Thread#0:B:  | 01023A9AC | JALAN GURNEY          | 21/08/2016 | FURHAN      | REX              |
+Thread#0:B:  | 01023A9AD | UTM KUALA LUMPUR      | 21/08/2016 | FURHAN      | POS              |
+Thread#0:T:skipped because of previous errors
+Thread#0:Scheduler: get next test for thread
+Thread#:Scheduler: dequeuing a rescheduled testitem: #4
+Thread#0:Scheduler: considering testitem #4 for thread
+Thread#0:Scheduler: using testitem #4 for thread
+Thread#0:Scheduler: Test #4 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread#0: Test #4/1 is finished on thread #0 as Failed within 7,382695 seconds
+Thread#0: Test #4/2 is started on thread #0
+Thread#0:B:Given I success do order transaction
+Thread#0:T:error: Unsupported Marionette protocol version 2, required 3
+Thread#0:B:When I arrive to successful trasaction page
+Thread#0:T:skipped because of previous errors
+Thread#0:B:Then I should see correct data for transaction
+Thread#0:B:  --- table step argument ---
+Thread#0:B:  | TRX_ID    | ADDRESS_SHIP          | DATE_ORDER | SELLER_NAME | DELIVERY_SERVICE |
+Thread#0:B:  | 01023A9AA | KAMPUNG DATOK KERAMAT | 21/08/2016 | FURHAN      | JNE              |
+Thread#0:B:  | 01023A9AC | JALAN GURNEY          | 21/08/2016 | FURHAN      | REX              |
+Thread#0:B:  | 01023A9AD | UTM KUALA LUMPUR      | 21/08/2016 | FURHAN      | POS              |
+Thread#0:T:skipped because of previous errors
+Thread#0:Scheduler: get next test for thread
+Thread#:Scheduler: at the end of normal test queue
+Thread#0:Scheduler: enumerator for thread is at end
+Thread#0:Scheduler: No more tests for thread 
+Thread#0: Test #4/2 is finished on thread #0 as Failed within 8,8644118 seconds
+Appdomain Disposed
+Thread#-1:Scheduler: get next test for thread
+Thread#:Scheduler: at the end of normal test queue
+Thread#-1:Scheduler: enumerator for thread is at end
+Total: 1 (test executions: 3)
+Succeeded: 0
+Ignored: 0
+Pending: 0
+Skipped: 0
+Failed: 1

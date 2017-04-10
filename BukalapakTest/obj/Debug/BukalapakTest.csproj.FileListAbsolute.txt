@@ -1,0 +1,14 @@
+c:\users\voxteneo\documents\visual studio 2015\Projects\BukalapakTest\BukalapakTest\bin\Debug\BukalapakTest.dll.config
+c:\users\voxteneo\documents\visual studio 2015\Projects\BukalapakTest\BukalapakTest\bin\Debug\BukalapakTest.dll
+c:\users\voxteneo\documents\visual studio 2015\Projects\BukalapakTest\BukalapakTest\bin\Debug\BukalapakTest.pdb
+c:\users\voxteneo\documents\visual studio 2015\Projects\BukalapakTest\BukalapakTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\voxteneo\documents\visual studio 2015\Projects\BukalapakTest\BukalapakTest\bin\Debug\nunit.framework.dll
+c:\users\voxteneo\documents\visual studio 2015\Projects\BukalapakTest\BukalapakTest\bin\Debug\TechTalk.SpecFlow.dll
+c:\users\voxteneo\documents\visual studio 2015\Projects\BukalapakTest\BukalapakTest\bin\Debug\WebDriver.dll
+c:\users\voxteneo\documents\visual studio 2015\Projects\BukalapakTest\BukalapakTest\bin\Debug\WebDriver.Support.dll
+c:\users\voxteneo\documents\visual studio 2015\Projects\BukalapakTest\BukalapakTest\bin\Debug\nunit.framework.xml
+c:\users\voxteneo\documents\visual studio 2015\Projects\BukalapakTest\BukalapakTest\bin\Debug\WebDriver.xml
+c:\users\voxteneo\documents\visual studio 2015\Projects\BukalapakTest\BukalapakTest\bin\Debug\WebDriver.Support.xml
+c:\users\voxteneo\documents\visual studio 2015\Projects\BukalapakTest\BukalapakTest\obj\Debug\BukalapakTest.csprojResolveAssemblyReference.cache
+c:\users\voxteneo\documents\visual studio 2015\Projects\BukalapakTest\BukalapakTest\obj\Debug\BukalapakTest.dll
+c:\users\voxteneo\documents\visual studio 2015\Projects\BukalapakTest\BukalapakTest\obj\Debug\BukalapakTest.pdb

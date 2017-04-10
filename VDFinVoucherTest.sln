@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VDFinVoucherTest", "VDFinVoucherTest\VDFinVoucherTest.csproj", "{69E77F8B-09EA-4C62-A3A3-E1F9A01CF06B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69E77F8B-09EA-4C62-A3A3-E1F9A01CF06B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69E77F8B-09EA-4C62-A3A3-E1F9A01CF06B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69E77F8B-09EA-4C62-A3A3-E1F9A01CF06B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69E77F8B-09EA-4C62-A3A3-E1F9A01CF06B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

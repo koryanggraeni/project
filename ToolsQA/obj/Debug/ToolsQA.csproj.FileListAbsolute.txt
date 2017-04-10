@@ -1,0 +1,8 @@
+c:\users\voxteneo\documents\visual studio 2015\Projects\ToolsQA\ToolsQA\bin\Debug\ToolsQA.exe.config
+c:\users\voxteneo\documents\visual studio 2015\Projects\ToolsQA\ToolsQA\bin\Debug\ToolsQA.exe
+c:\users\voxteneo\documents\visual studio 2015\Projects\ToolsQA\ToolsQA\bin\Debug\ToolsQA.pdb
+c:\users\voxteneo\documents\visual studio 2015\Projects\ToolsQA\ToolsQA\bin\Debug\WebDriver.dll
+c:\users\voxteneo\documents\visual studio 2015\Projects\ToolsQA\ToolsQA\bin\Debug\WebDriver.xml
+c:\users\voxteneo\documents\visual studio 2015\Projects\ToolsQA\ToolsQA\obj\Debug\ToolsQA.csprojResolveAssemblyReference.cache
+c:\users\voxteneo\documents\visual studio 2015\Projects\ToolsQA\ToolsQA\obj\Debug\ToolsQA.exe
+c:\users\voxteneo\documents\visual studio 2015\Projects\ToolsQA\ToolsQA\obj\Debug\ToolsQA.pdb

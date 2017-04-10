@@ -1,0 +1,45 @@
+﻿VS filter: testpath:TestAssembly:MyProject.Specs/Feature:Ordering+answers/Scenario:the+answer+with+highest+vote+get+to+the+top
+Discovering target: Default
+Discovering tests from assembly: C:\Users\Voxteneo\Documents\Visual Studio 2015\Projects\MyProject.Specs\MyProject.Specs\bin\Debug\MyProject.Specs.dll
+Appdomain Disposed
+Test Suite Dump
+#0: MyProject.Specs/Default - 
+#1: Default - 
+#2: MyProject.Specs - 
+#3: Ordering answers - 
+#4: the answer with highest vote get to the top - TestAssembly:MyProject.Specs/Feature:Ordering+answers/Scenario:the+answer+with+highest+vote+get+to+the+top
+End: Test Suite Dump
+Thread#0:Scheduler: get next test for thread
+Thread#:Scheduler: testitem #4 from normal test queue 
+Thread#0:Scheduler: considering testitem #4 for thread
+Thread#0:Scheduler: using testitem #4 for thread
+Thread#0:Scheduler: Test #4 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread #0: creating new test thread executor for MyProject.Specs, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+Loading SpecRun type 'TechTalk.SpecRun.Framework.TestAssemblyExecutor' from: C:\Users\Voxteneo\AppData\Local\Temp\VisualStudioTestExplorerExtensions\SpecRun.Runner.1.5.2\tools\TechTalk.SpecRun.Framework.Executor.dll
+Thread#0: Test #4/0 is started on thread #0
+Thread#0:B:Given there is a question "What's your favorite colour?" with the answers
+Thread#0:B:  --- table step argument ---
+Thread#0:B:  | Answer         | Vote |
+Thread#0:B:  | red            | 1    |
+Thread#0:B:  | Cucumber green | 1    |
+Thread#0:T:done: OrderingAnswersSteps.GivenThereIsAQuestionWithTheAnswers("What's your favor...", <table>) (19,7s)
+Thread#0:B:When you upvote answer "Cucumber green"
+Thread#0:T:done: OrderingAnswersSteps.WhenYouUpvoteAnswer("Cucumber green") (0,0s)
+Thread#0:B:Then the answer "Cucumber green" should be on top
+Thread#0:T:done: OrderingAnswersSteps.ThenTheAnswerShouldBeOnTop("Cucumber green") (0,0s)
+Thread#0:Scheduler: get next test for thread
+Thread#:Scheduler: at the end of normal test queue
+Thread#0:Scheduler: enumerator for thread is at end
+Thread#0:Scheduler: No more tests for thread 
+Thread#0: Test #4/0 is finished on thread #0 as Succeeded within 20,0882436 seconds
+Appdomain Disposed
+Thread#-1:Scheduler: get next test for thread
+Thread#:Scheduler: at the end of normal test queue
+Thread#-1:Scheduler: enumerator for thread is at end
+Total: 1
+Succeeded: 1
+Ignored: 0
+Pending: 0
+Skipped: 0
+Failed: 0

@@ -1,0 +1,17 @@
+c:\users\voxteneo\documents\visual studio 2015\Projects\MyProject.Specs\MyProject.Specs\bin\Debug\MyProject.Specs.dll.config
+c:\users\voxteneo\documents\visual studio 2015\Projects\MyProject.Specs\MyProject.Specs\bin\Debug\MyProject.Specs.dll
+c:\users\voxteneo\documents\visual studio 2015\Projects\MyProject.Specs\MyProject.Specs\bin\Debug\MyProject.Specs.pdb
+c:\users\voxteneo\documents\visual studio 2015\Projects\MyProject.Specs\MyProject.Specs\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\voxteneo\documents\visual studio 2015\Projects\MyProject.Specs\MyProject.Specs\bin\Debug\nunit.framework.dll
+c:\users\voxteneo\documents\visual studio 2015\Projects\MyProject.Specs\MyProject.Specs\bin\Debug\TechTalk.SpecFlow.dll
+c:\users\voxteneo\documents\visual studio 2015\Projects\MyProject.Specs\MyProject.Specs\bin\Debug\nunit.framework.xml
+c:\users\voxteneo\documents\visual studio 2015\Projects\MyProject.Specs\MyProject.Specs\obj\Debug\MyProject.Specs.csprojResolveAssemblyReference.cache
+c:\users\voxteneo\documents\visual studio 2015\Projects\MyProject.Specs\MyProject.Specs\obj\Debug\MyProject.Specs.dll
+c:\users\voxteneo\documents\visual studio 2015\Projects\MyProject.Specs\MyProject.Specs\obj\Debug\MyProject.Specs.pdb
+C:\Users\Voxteneo\Documents\Visual Studio 2015\Projects\MyProject.Specs\MyProject.Specs\bin\Debug\Default.srprofile
+C:\Users\Voxteneo\Documents\Visual Studio 2015\Projects\MyProject.Specs\MyProject.Specs\bin\Debug\SpecRun.SpecFlowPlugin.dll
+C:\Users\Voxteneo\Documents\Visual Studio 2015\Projects\MyProject.Specs\MyProject.Specs\bin\Debug\TechTalk.SpecRun.dll
+C:\Users\Voxteneo\Documents\Visual Studio 2015\Projects\MyProject.Specs\MyProject.Specs\bin\Debug\WebDriver.dll
+C:\Users\Voxteneo\Documents\Visual Studio 2015\Projects\MyProject.Specs\MyProject.Specs\bin\Debug\WebDriver.Support.dll
+C:\Users\Voxteneo\Documents\Visual Studio 2015\Projects\MyProject.Specs\MyProject.Specs\bin\Debug\WebDriver.xml
+C:\Users\Voxteneo\Documents\Visual Studio 2015\Projects\MyProject.Specs\MyProject.Specs\bin\Debug\WebDriver.Support.xml

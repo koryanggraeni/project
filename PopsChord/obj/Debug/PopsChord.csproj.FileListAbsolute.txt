@@ -1,0 +1,15 @@
+c:\users\voxteneo\documents\visual studio 2015\Projects\PopsChord\PopsChord\bin\Debug\Default.srprofile
+c:\users\voxteneo\documents\visual studio 2015\Projects\PopsChord\PopsChord\bin\Debug\PopsChord.dll.config
+c:\users\voxteneo\documents\visual studio 2015\Projects\PopsChord\PopsChord\bin\Debug\PopsChord.dll
+c:\users\voxteneo\documents\visual studio 2015\Projects\PopsChord\PopsChord\bin\Debug\PopsChord.pdb
+c:\users\voxteneo\documents\visual studio 2015\Projects\PopsChord\PopsChord\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\voxteneo\documents\visual studio 2015\Projects\PopsChord\PopsChord\bin\Debug\SpecRun.SpecFlowPlugin.dll
+c:\users\voxteneo\documents\visual studio 2015\Projects\PopsChord\PopsChord\bin\Debug\TechTalk.SpecFlow.dll
+c:\users\voxteneo\documents\visual studio 2015\Projects\PopsChord\PopsChord\bin\Debug\TechTalk.SpecRun.dll
+c:\users\voxteneo\documents\visual studio 2015\Projects\PopsChord\PopsChord\bin\Debug\WebDriver.dll
+c:\users\voxteneo\documents\visual studio 2015\Projects\PopsChord\PopsChord\bin\Debug\WebDriver.Support.dll
+c:\users\voxteneo\documents\visual studio 2015\Projects\PopsChord\PopsChord\bin\Debug\WebDriver.xml
+c:\users\voxteneo\documents\visual studio 2015\Projects\PopsChord\PopsChord\bin\Debug\WebDriver.Support.xml
+c:\users\voxteneo\documents\visual studio 2015\Projects\PopsChord\PopsChord\obj\Debug\PopsChord.dll
+c:\users\voxteneo\documents\visual studio 2015\Projects\PopsChord\PopsChord\obj\Debug\PopsChord.pdb
+c:\users\voxteneo\documents\visual studio 2015\Projects\PopsChord\PopsChord\obj\Debug\PopsChord.csprojResolveAssemblyReference.cache

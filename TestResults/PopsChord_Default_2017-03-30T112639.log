@@ -1,0 +1,88 @@
+﻿VS filter: testpath:TestAssembly:PopsChord/Feature:auth/Scenario:login
+Discovering target: Default
+Discovering tests from assembly: c:\users\voxteneo\documents\visual studio 2015\Projects\PopsChord\PopsChord\bin\Debug\PopsChord.dll
+Appdomain Disposed
+Test Suite Dump
+#0: PopsChord/Default - 
+#1: Default - 
+#2: PopsChord - 
+#3: auth - 
+#4: login - TestAssembly:PopsChord/Feature:auth/Scenario:login
+End: Test Suite Dump
+Thread#0:Scheduler: get next test for thread
+Thread#:Scheduler: testitem #4 from normal test queue 
+Thread#0:Scheduler: considering testitem #4 for thread
+Thread#0:Scheduler: using testitem #4 for thread
+Thread#0:Scheduler: Test #4 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread #0: creating new test thread executor for PopsChord, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+Loading SpecRun type 'TechTalk.SpecRun.Framework.TestAssemblyExecutor' from: C:\Users\Voxteneo\AppData\Local\Temp\VisualStudioTestExplorerExtensions\SpecRun.Runner.1.5.2\tools\TechTalk.SpecRun.Framework.Executor.dll
+Thread#0: Test #4/0 is started on thread #0
+Thread#0:B:Given I open the pops chord website
+Thread#0:T:done: authstep.GivenIOpenThePopsChordWebsite() (20,2s)
+Thread#0:B:And I should see "Popscord" as title
+Thread#0:T:done: authstep.GivenIShouldSeeAsTitle("Popscord") (0,0s)
+Thread#0:B:And I have entered "admin" as username
+Thread#0:T:done: authstep.GivenIHaveEnteredAsUsername("admin") (0,1s)
+Thread#0:B:And I have entered "Vox2017" as password
+Thread#0:T:done: authstep.GivenIHaveEnteredAsPassword("Vox2017") (0,1s)
+Thread#0:B:When I press login
+Thread#0:T:done: authstep.WhenIPressLogin() (0,1s)
+Thread#0:B:Then I should see the I should see "Popscord" as title
+Thread#0:T:error: Unable to locate element: h1 > span
+Thread#0:Scheduler: reschedule tests for testitem #0
+Thread#0:Scheduler: get next test for thread
+Thread#:Scheduler: dequeuing a rescheduled testitem: #4
+Thread#0:Scheduler: considering testitem #4 for thread
+Thread#0:Scheduler: using testitem #4 for thread
+Thread#0:Scheduler: Test #4 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread#0: Test #4/0 is finished on thread #0 as Failed within 21,1019825 seconds
+Thread#0: Test #4/1 is started on thread #0
+Thread#0:B:Given I open the pops chord website
+Thread#0:T:done: authstep.GivenIOpenThePopsChordWebsite() (14,5s)
+Thread#0:B:And I should see "Popscord" as title
+Thread#0:T:done: authstep.GivenIShouldSeeAsTitle("Popscord") (0,0s)
+Thread#0:B:And I have entered "admin" as username
+Thread#0:T:done: authstep.GivenIHaveEnteredAsUsername("admin") (0,1s)
+Thread#0:B:And I have entered "Vox2017" as password
+Thread#0:T:done: authstep.GivenIHaveEnteredAsPassword("Vox2017") (0,1s)
+Thread#0:B:When I press login
+Thread#0:T:done: authstep.WhenIPressLogin() (0,1s)
+Thread#0:B:Then I should see the I should see "Popscord" as title
+Thread#0:T:error: Unable to locate element: h1 > span
+Thread#0:Scheduler: get next test for thread
+Thread#:Scheduler: dequeuing a rescheduled testitem: #4
+Thread#0:Scheduler: considering testitem #4 for thread
+Thread#0:Scheduler: using testitem #4 for thread
+Thread#0:Scheduler: Test #4 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread#0: Test #4/1 is finished on thread #0 as Failed within 14,8530666 seconds
+Thread#0: Test #4/2 is started on thread #0
+Thread#0:B:Given I open the pops chord website
+Thread#0:T:done: authstep.GivenIOpenThePopsChordWebsite() (11,5s)
+Thread#0:B:And I should see "Popscord" as title
+Thread#0:T:done: authstep.GivenIShouldSeeAsTitle("Popscord") (0,0s)
+Thread#0:B:And I have entered "admin" as username
+Thread#0:T:done: authstep.GivenIHaveEnteredAsUsername("admin") (0,1s)
+Thread#0:B:And I have entered "Vox2017" as password
+Thread#0:T:done: authstep.GivenIHaveEnteredAsPassword("Vox2017") (0,0s)
+Thread#0:B:When I press login
+Thread#0:T:done: authstep.WhenIPressLogin() (0,1s)
+Thread#0:B:Then I should see the I should see "Popscord" as title
+Thread#0:T:error: Unable to locate element: h1 > span
+Thread#0:Scheduler: get next test for thread
+Thread#:Scheduler: at the end of normal test queue
+Thread#0:Scheduler: enumerator for thread is at end
+Thread#0:Scheduler: No more tests for thread 
+Thread#0: Test #4/2 is finished on thread #0 as Failed within 11,7901948 seconds
+Appdomain Disposed
+Thread#-1:Scheduler: get next test for thread
+Thread#:Scheduler: at the end of normal test queue
+Thread#-1:Scheduler: enumerator for thread is at end
+Total: 1 (test executions: 3)
+Succeeded: 0
+Ignored: 0
+Pending: 0
+Skipped: 0
+Failed: 1

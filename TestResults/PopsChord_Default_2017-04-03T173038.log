@@ -1,0 +1,118 @@
+﻿VS filter: testpath:TestAssembly:PopsChord/Feature:auth/Scenario:107621+Allow+duplicate+Link%27s+Title+(add)
+Discovering target: Default
+Discovering tests from assembly: C:\Users\Voxteneo\Documents\Visual Studio 2015\Projects\PopsChord\PopsChord\bin\Debug\PopsChord.dll
+Appdomain Disposed
+Test Suite Dump
+#0: PopsChord/Default - 
+#1: Default - 
+#2: PopsChord - 
+#3: auth - 
+#7: 107621 Allow duplicate Link's Title (add) - TestAssembly:PopsChord/Feature:auth/Scenario:107621+Allow+duplicate+Link%27s+Title+(add)
+End: Test Suite Dump
+Thread#0:Scheduler: get next test for thread
+Thread#:Scheduler: testitem #7 from normal test queue 
+Thread#0:Scheduler: considering testitem #7 for thread
+Thread#0:Scheduler: using testitem #7 for thread
+Thread#0:Scheduler: Test #7 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread #0: creating new test thread executor for PopsChord, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+Loading SpecRun type 'TechTalk.SpecRun.Framework.TestAssemblyExecutor' from: C:\Users\Voxteneo\AppData\Local\Temp\VisualStudioTestExplorerExtensions\SpecRun.Runner.1.5.2\tools\TechTalk.SpecRun.Framework.Executor.dll
+Thread#0: Test #7/0 is started on thread #0
+Thread#0:B:Given I go to score list page
+Thread#0:T:done: authstep.GivenIGoToScoreListPage() (83,1s)
+Thread#0:B:And I press "CreateNewScoreButton" button
+Thread#0:T:done: authstep.GivenIPressButton("CreateNewScoreButton") (0,1s)
+Thread#0:B:And I input all required fields on score
+Thread#0:B:  --- table step argument ---
+Thread#0:B:  | title                | reference    | categories        |
+Thread#0:B:  | korytest030420171150 | 030420171150 | Test Thierry test |
+Thread#0:T:error: Unable to locate element: #Title
+Thread#0:B:And I press next button until the link tab opened
+Thread#0:T:skipped because of previous errors
+Thread#0:B:And I press "CreateNewLinkButton" button
+Thread#0:T:skipped because of previous errors
+Thread#0:B:And I input link data with
+Thread#0:B:  --- table step argument ---
+Thread#0:B:  | title | url          | order |
+Thread#0:B:  | test  | www.test.com | 1     |
+Thread#0:T:skipped because of previous errors
+Thread#0:B:When I press the link save button
+Thread#0:T:skipped because of previous errors
+Thread#0:B:Then I should see success message if "Saved successfully."
+Thread#0:T:skipped because of previous errors
+Thread#0:Scheduler: reschedule tests for testitem #0
+Thread#0:Scheduler: get next test for thread
+Thread#:Scheduler: dequeuing a rescheduled testitem: #7
+Thread#0:Scheduler: considering testitem #7 for thread
+Thread#0:Scheduler: using testitem #7 for thread
+Thread#0:Scheduler: Test #7 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread#0: Test #7/0 is finished on thread #0 as Failed within 83,6498969 seconds
+Thread#0: Test #7/1 is started on thread #0
+Thread#0:B:Given I go to score list page
+Thread#0:T:done: authstep.GivenIGoToScoreListPage() (50,2s)
+Thread#0:B:And I press "CreateNewScoreButton" button
+Thread#0:T:error: Tried to run command without establishing a connection
+Thread#0:B:And I input all required fields on score
+Thread#0:B:  --- table step argument ---
+Thread#0:B:  | title                | reference    | categories        |
+Thread#0:B:  | korytest030420171150 | 030420171150 | Test Thierry test |
+Thread#0:T:skipped because of previous errors
+Thread#0:B:And I press next button until the link tab opened
+Thread#0:T:skipped because of previous errors
+Thread#0:B:And I press "CreateNewLinkButton" button
+Thread#0:T:skipped because of previous errors
+Thread#0:B:And I input link data with
+Thread#0:B:  --- table step argument ---
+Thread#0:B:  | title | url          | order |
+Thread#0:B:  | test  | www.test.com | 1     |
+Thread#0:T:skipped because of previous errors
+Thread#0:B:When I press the link save button
+Thread#0:T:skipped because of previous errors
+Thread#0:B:Then I should see success message if "Saved successfully."
+Thread#0:T:skipped because of previous errors
+Thread#0:Scheduler: get next test for thread
+Thread#:Scheduler: dequeuing a rescheduled testitem: #7
+Thread#0:Scheduler: considering testitem #7 for thread
+Thread#0:Scheduler: using testitem #7 for thread
+Thread#0:Scheduler: Test #7 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread#0: Test #7/1 is finished on thread #0 as Failed within 50,2175819 seconds
+Thread#0: Test #7/2 is started on thread #0
+Thread#0:B:Given I go to score list page
+Thread#0:T:error: A exception with a null response was thrown sending an HTTP request to the remote WebDriver server for URL http://localhost:56303/session. The status of the exception was ReceiveFailure, and the message was: The underlying connection was closed: An unexpected error occurred on a receive.
+Thread#0:B:And I press "CreateNewScoreButton" button
+Thread#0:T:skipped because of previous errors
+Thread#0:B:And I input all required fields on score
+Thread#0:B:  --- table step argument ---
+Thread#0:B:  | title                | reference    | categories        |
+Thread#0:B:  | korytest030420171150 | 030420171150 | Test Thierry test |
+Thread#0:T:skipped because of previous errors
+Thread#0:B:And I press next button until the link tab opened
+Thread#0:T:skipped because of previous errors
+Thread#0:B:And I press "CreateNewLinkButton" button
+Thread#0:T:skipped because of previous errors
+Thread#0:B:And I input link data with
+Thread#0:B:  --- table step argument ---
+Thread#0:B:  | title | url          | order |
+Thread#0:B:  | test  | www.test.com | 1     |
+Thread#0:T:skipped because of previous errors
+Thread#0:B:When I press the link save button
+Thread#0:T:skipped because of previous errors
+Thread#0:B:Then I should see success message if "Saved successfully."
+Thread#0:T:skipped because of previous errors
+Thread#0:Scheduler: get next test for thread
+Thread#:Scheduler: at the end of normal test queue
+Thread#0:Scheduler: enumerator for thread is at end
+Thread#0:Scheduler: No more tests for thread 
+Thread#0: Test #7/2 is finished on thread #0 as Failed within 1,2670039 seconds
+Appdomain Disposed
+Thread#-1:Scheduler: get next test for thread
+Thread#:Scheduler: at the end of normal test queue
+Thread#-1:Scheduler: enumerator for thread is at end
+Total: 1 (test executions: 3)
+Succeeded: 0
+Ignored: 0
+Pending: 0
+Skipped: 0
+Failed: 1

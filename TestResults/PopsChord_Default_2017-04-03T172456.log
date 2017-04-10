@@ -1,0 +1,47 @@
+﻿VS filter: testpath:TestAssembly:PopsChord/Feature:auth/Scenario:login
+Discovering target: Default
+Discovering tests from assembly: C:\Users\Voxteneo\Documents\Visual Studio 2015\Projects\PopsChord\PopsChord\bin\Debug\PopsChord.dll
+Appdomain Disposed
+Test Suite Dump
+#0: PopsChord/Default - 
+#1: Default - 
+#2: PopsChord - 
+#3: auth - 
+#6: login - TestAssembly:PopsChord/Feature:auth/Scenario:login
+End: Test Suite Dump
+Thread#0:Scheduler: get next test for thread
+Thread#:Scheduler: testitem #6 from normal test queue 
+Thread#0:Scheduler: considering testitem #6 for thread
+Thread#0:Scheduler: using testitem #6 for thread
+Thread#0:Scheduler: Test #6 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread #0: creating new test thread executor for PopsChord, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+Loading SpecRun type 'TechTalk.SpecRun.Framework.TestAssemblyExecutor' from: C:\Users\Voxteneo\AppData\Local\Temp\VisualStudioTestExplorerExtensions\SpecRun.Runner.1.5.2\tools\TechTalk.SpecRun.Framework.Executor.dll
+Thread#0: Test #6/0 is started on thread #0
+Thread#0:B:Given I open the pops chord website
+Thread#0:T:done: authstep.GivenIOpenThePopsChordWebsite() (18,9s)
+Thread#0:B:And I should see "Popscord" as title
+Thread#0:T:done: authstep.GivenIShouldSeeAsTitle("Popscord") (0,0s)
+Thread#0:B:And I have entered "admin" as username
+Thread#0:T:done: authstep.GivenIHaveEnteredAsUsername("admin") (0,1s)
+Thread#0:B:And I have entered "Vox2017" as password
+Thread#0:T:done: authstep.GivenIHaveEnteredAsPassword("Vox2017") (0,1s)
+Thread#0:B:When I press login
+Thread#0:T:done: authstep.WhenIPressLogin() (0,2s)
+Thread#0:B:Then I should see "Popscord" as title
+Thread#0:T:done: authstep.ThenIShouldSeeAsTitle("Popscord") (0,0s)
+Thread#0:Scheduler: get next test for thread
+Thread#:Scheduler: at the end of normal test queue
+Thread#0:Scheduler: enumerator for thread is at end
+Thread#0:Scheduler: No more tests for thread 
+Thread#0: Test #6/0 is finished on thread #0 as Succeeded within 19,7296613 seconds
+Appdomain Disposed
+Thread#-1:Scheduler: get next test for thread
+Thread#:Scheduler: at the end of normal test queue
+Thread#-1:Scheduler: enumerator for thread is at end
+Total: 1
+Succeeded: 1
+Ignored: 0
+Pending: 0
+Skipped: 0
+Failed: 0

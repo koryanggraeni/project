@@ -1,0 +1,94 @@
+﻿VS filter: testpath:TestAssembly:PopsChord/Feature:auth/Scenario:login+failed+wrong+password
+Discovering target: Default
+Discovering tests from assembly: C:\Users\Voxteneo\Documents\Visual Studio 2015\Projects\PopsChord\PopsChord\bin\Debug\PopsChord.dll
+Appdomain Disposed
+Test Suite Dump
+#0: PopsChord/Default - 
+#1: Default - 
+#2: PopsChord - 
+#3: auth - 
+#5: login failed wrong password - TestAssembly:PopsChord/Feature:auth/Scenario:login+failed+wrong+password
+End: Test Suite Dump
+Thread#0:Scheduler: get next test for thread
+Thread#:Scheduler: testitem #5 from normal test queue 
+Thread#0:Scheduler: considering testitem #5 for thread
+Thread#0:Scheduler: using testitem #5 for thread
+Thread#0:Scheduler: Test #5 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread #0: creating new test thread executor for PopsChord, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+Loading SpecRun type 'TechTalk.SpecRun.Framework.TestAssemblyExecutor' from: C:\Users\Voxteneo\AppData\Local\Temp\VisualStudioTestExplorerExtensions\SpecRun.Runner.1.5.2\tools\TechTalk.SpecRun.Framework.Executor.dll
+Thread#0: Test #5/0 is started on thread #0
+Thread#0:B:Given I open the pops chord website
+Thread#0:T:done: authstep.GivenIOpenThePopsChordWebsite() (15,4s)
+Thread#0:B:And I should see "Popscord" as title
+Thread#0:T:done: authstep.GivenIShouldSeeAsTitle("Popscord") (0,0s)
+Thread#0:B:And I have entered "admin" as username
+Thread#0:T:done: authstep.GivenIHaveEnteredAsUsername("admin") (0,2s)
+Thread#0:B:And I have entered "qwertyui" as password
+Thread#0:T:done: authstep.GivenIHaveEnteredAsPassword("qwertyui") (0,2s)
+Thread#0:B:When I press login
+Thread#0:T:done: authstep.WhenIPressLogin() (0,4s)
+Thread#0:B:Then I should see "Login failed!" as error message
+Thread#0:T:error: Unable to locate element: h2
+Thread#0:B:And I should see "Invalid user name or password" as password error message
+Thread#0:T:skipped because of previous errors
+Thread#0:Scheduler: reschedule tests for testitem #0
+Thread#0:Scheduler: get next test for thread
+Thread#:Scheduler: dequeuing a rescheduled testitem: #5
+Thread#0:Scheduler: considering testitem #5 for thread
+Thread#0:Scheduler: using testitem #5 for thread
+Thread#0:Scheduler: Test #5 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread#0: Test #5/0 is finished on thread #0 as Failed within 20,4051316 seconds
+Thread#0: Test #5/1 is started on thread #0
+Thread#0:B:Given I open the pops chord website
+Thread#0:T:done: authstep.GivenIOpenThePopsChordWebsite() (18,4s)
+Thread#0:B:And I should see "Popscord" as title
+Thread#0:T:done: authstep.GivenIShouldSeeAsTitle("Popscord") (0,0s)
+Thread#0:B:And I have entered "admin" as username
+Thread#0:T:done: authstep.GivenIHaveEnteredAsUsername("admin") (0,3s)
+Thread#0:B:And I have entered "qwertyui" as password
+Thread#0:T:done: authstep.GivenIHaveEnteredAsPassword("qwertyui") (0,3s)
+Thread#0:B:When I press login
+Thread#0:T:done: authstep.WhenIPressLogin() (0,8s)
+Thread#0:B:Then I should see "Login failed!" as error message
+Thread#0:T:error: Unable to locate element: h2
+Thread#0:B:And I should see "Invalid user name or password" as password error message
+Thread#0:T:skipped because of previous errors
+Thread#0:Scheduler: get next test for thread
+Thread#:Scheduler: dequeuing a rescheduled testitem: #5
+Thread#0:Scheduler: considering testitem #5 for thread
+Thread#0:Scheduler: using testitem #5 for thread
+Thread#0:Scheduler: Test #5 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread#0: Test #5/1 is finished on thread #0 as Failed within 22,8061679 seconds
+Thread#0: Test #5/2 is started on thread #0
+Thread#0:B:Given I open the pops chord website
+Thread#0:T:done: authstep.GivenIOpenThePopsChordWebsite() (18,7s)
+Thread#0:B:And I should see "Popscord" as title
+Thread#0:T:done: authstep.GivenIShouldSeeAsTitle("Popscord") (0,0s)
+Thread#0:B:And I have entered "admin" as username
+Thread#0:T:done: authstep.GivenIHaveEnteredAsUsername("admin") (0,2s)
+Thread#0:B:And I have entered "qwertyui" as password
+Thread#0:T:done: authstep.GivenIHaveEnteredAsPassword("qwertyui") (0,3s)
+Thread#0:B:When I press login
+Thread#0:T:done: authstep.WhenIPressLogin() (0,3s)
+Thread#0:B:Then I should see "Login failed!" as error message
+Thread#0:T:error: Unable to locate element: h2
+Thread#0:B:And I should see "Invalid user name or password" as password error message
+Thread#0:T:skipped because of previous errors
+Thread#0:Scheduler: get next test for thread
+Thread#:Scheduler: at the end of normal test queue
+Thread#0:Scheduler: enumerator for thread is at end
+Thread#0:Scheduler: No more tests for thread 
+Thread#0: Test #5/2 is finished on thread #0 as Failed within 22,5797019 seconds
+Appdomain Disposed
+Thread#-1:Scheduler: get next test for thread
+Thread#:Scheduler: at the end of normal test queue
+Thread#-1:Scheduler: enumerator for thread is at end
+Total: 1 (test executions: 3)
+Succeeded: 0
+Ignored: 0
+Pending: 0
+Skipped: 0
+Failed: 1

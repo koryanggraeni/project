@@ -1,0 +1,5 @@
+c:\users\voxteneo\documents\visual studio 2015\Projects\GherkinTest\Example\bin\Debug\Example.dll
+c:\users\voxteneo\documents\visual studio 2015\Projects\GherkinTest\Example\bin\Debug\Example.pdb
+c:\users\voxteneo\documents\visual studio 2015\Projects\GherkinTest\Example\obj\Debug\Example.csprojResolveAssemblyReference.cache
+c:\users\voxteneo\documents\visual studio 2015\Projects\GherkinTest\Example\obj\Debug\Example.dll
+c:\users\voxteneo\documents\visual studio 2015\Projects\GherkinTest\Example\obj\Debug\Example.pdb

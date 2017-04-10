@@ -1,0 +1,14 @@
+c:\users\voxteneo\documents\visual studio 2015\Projects\GherkinTest\GherkinTest\bin\Debug\Default.srprofile
+c:\users\voxteneo\documents\visual studio 2015\Projects\GherkinTest\GherkinTest\bin\Debug\GherkinTest.dll.config
+c:\users\voxteneo\documents\visual studio 2015\Projects\GherkinTest\GherkinTest\bin\Debug\GherkinTest.dll
+c:\users\voxteneo\documents\visual studio 2015\Projects\GherkinTest\GherkinTest\bin\Debug\GherkinTest.pdb
+c:\users\voxteneo\documents\visual studio 2015\Projects\GherkinTest\GherkinTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\voxteneo\documents\visual studio 2015\Projects\GherkinTest\GherkinTest\bin\Debug\SpecRun.SpecFlowPlugin.dll
+c:\users\voxteneo\documents\visual studio 2015\Projects\GherkinTest\GherkinTest\bin\Debug\TechTalk.SpecFlow.dll
+c:\users\voxteneo\documents\visual studio 2015\Projects\GherkinTest\GherkinTest\bin\Debug\TechTalk.SpecRun.dll
+c:\users\voxteneo\documents\visual studio 2015\Projects\GherkinTest\GherkinTest\bin\Debug\SpecRun.SpecFlowPlugin.pdb
+c:\users\voxteneo\documents\visual studio 2015\Projects\GherkinTest\GherkinTest\obj\Debug\GherkinTest.csprojResolveAssemblyReference.cache
+c:\users\voxteneo\documents\visual studio 2015\Projects\GherkinTest\GherkinTest\obj\Debug\GherkinTest.dll
+c:\users\voxteneo\documents\visual studio 2015\Projects\GherkinTest\GherkinTest\obj\Debug\GherkinTest.pdb
+c:\users\voxteneo\documents\visual studio 2015\Projects\GherkinTest\GherkinTest\bin\Debug\Example.dll
+c:\users\voxteneo\documents\visual studio 2015\Projects\GherkinTest\GherkinTest\bin\Debug\Example.pdb

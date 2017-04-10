@@ -1,0 +1,12 @@
+c:\users\voxteneo\documents\visual studio 2015\Projects\FundTransfer.specs\FundTransfer.specs\bin\Debug\FundTransfer.specs.dll.config
+c:\users\voxteneo\documents\visual studio 2015\Projects\FundTransfer.specs\FundTransfer.specs\bin\Debug\FundTransfer.specs.dll
+c:\users\voxteneo\documents\visual studio 2015\Projects\FundTransfer.specs\FundTransfer.specs\bin\Debug\FundTransfer.specs.pdb
+c:\users\voxteneo\documents\visual studio 2015\Projects\FundTransfer.specs\FundTransfer.specs\bin\Debug\nunit.framework.dll
+c:\users\voxteneo\documents\visual studio 2015\Projects\FundTransfer.specs\FundTransfer.specs\bin\Debug\TechTalk.SpecFlow.dll
+c:\users\voxteneo\documents\visual studio 2015\Projects\FundTransfer.specs\FundTransfer.specs\bin\Debug\WebDriver.dll
+c:\users\voxteneo\documents\visual studio 2015\Projects\FundTransfer.specs\FundTransfer.specs\bin\Debug\WebDriver.Support.dll
+c:\users\voxteneo\documents\visual studio 2015\Projects\FundTransfer.specs\FundTransfer.specs\bin\Debug\nunit.framework.xml
+c:\users\voxteneo\documents\visual studio 2015\Projects\FundTransfer.specs\FundTransfer.specs\bin\Debug\WebDriver.xml
+c:\users\voxteneo\documents\visual studio 2015\Projects\FundTransfer.specs\FundTransfer.specs\bin\Debug\WebDriver.Support.xml
+c:\users\voxteneo\documents\visual studio 2015\Projects\FundTransfer.specs\FundTransfer.specs\obj\Debug\FundTransfer.specs.dll
+c:\users\voxteneo\documents\visual studio 2015\Projects\FundTransfer.specs\FundTransfer.specs\obj\Debug\FundTransfer.specs.pdb
